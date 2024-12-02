@@ -9,10 +9,8 @@ All three contributors are students at the University of Amsterdam.
 numpy
 matplotlib
 simpy
-scipy
-tqdm
-## Usage instructions 
-Code for making the runs is included, but so is data from previous runs (.pkl files). Re-running will take considerate amount of time, therefore, using data from the pickle files is recommended. 
+random
+statistics
 
 ## Licence
 MIT License
